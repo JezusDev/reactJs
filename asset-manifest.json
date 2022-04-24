@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactJs/static/css/main.a2d53a74.css",
+    "main.js": "/reactJs/static/js/main.974cf0a6.js",
+    "static/media/logo.svg": "/reactJs/static/media/logo.73694723ba02e2a60545b4ca1da1af36.svg",
+    "static/media/cancer.svg": "/reactJs/static/media/cancer.1891b5b1325ddf17d2be25971161417a.svg",
+    "static/media/emergency.svg": "/reactJs/static/media/emergency.106d428966facbbde0e857010efcaaab.svg",
+    "static/media/online.svg": "/reactJs/static/media/online.431dfdf07a241fb7a8a2151137a16bdd.svg",
+    "index.html": "/reactJs/index.html",
+    "main.a2d53a74.css.map": "/reactJs/static/css/main.a2d53a74.css.map",
+    "main.974cf0a6.js.map": "/reactJs/static/js/main.974cf0a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d53a74.css",
+    "static/js/main.974cf0a6.js"
+  ]
+}
