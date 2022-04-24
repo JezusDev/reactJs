@@ -1,5 +1,5 @@
 # React-приложение с авторизацией
- [View promo](https://jezusdev.github.io/reactJs/)
+ [View demo](https://jezusdev.github.io/reactJs/)
 -----------------------
 
 
@@ -36,3 +36,6 @@
 Email: jezusworking@gmail.com
 
 Telegram: <https://t.me/Je_zus>
+
+
+P.S. Надеюсь, мы неплохо сработаемся :)
