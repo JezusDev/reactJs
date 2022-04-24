@@ -1,4 +1,4 @@
-# React-application
+# React-приложение с авторизацией
  [View promo](https://jezusdev.github.io/reactJs/)
 -----------------------
 
